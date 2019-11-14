@@ -2,6 +2,6 @@
 
 This repo is private.
 
-Demo:
+Check the 2nd version of this app:
 
-https://reddit-clone-20.herokuapp.com/
+https://github.com/TamalAnwar/reddit-clone-20
